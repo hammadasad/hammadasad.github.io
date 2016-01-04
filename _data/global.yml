@@ -1,0 +1,10 @@
+# Site Settings
+title: 'Welcome'
+description: 'Things I Think About'
+#url: 'http://scotch-io.github.io'
+url: 'http://127.0.0.1:4000'
+footer_text: 'Hammad Asad @ 2015'
+
+# Admin Settings
+admin_name: 'Hammad Asad'
+admin_email: 'hammad_asad@msn.com'

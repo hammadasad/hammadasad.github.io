@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome</title>
+    <description>Things I Think About</description>
+    <link>http://127.0.0.1:4000/</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Jan 2016 21:16:37 -0500</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2016 21:16:37 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>My First Post on Jekyll</title>
+        <description>&lt;p&gt;First Blog Post! :)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Aug 2016 09:26:34 -0400</pubDate>
+        <link>http://127.0.0.1:4000/2016-01-03-my-title-is-called-this.md/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/2016-01-03-my-title-is-called-this.md/</guid>
+        
+        <category>code</category>
+        
+        
+        <category>blog</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Welcome</title>
+ <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
+ <link href="http://127.0.0.1:4000/"/>
+ <updated>2016-01-03T21:16:37-05:00</updated>
+ <id>http://127.0.0.1:4000</id>
+ <author>
+   <name>Hammad Asad</name>
+   <email>hammad_asad@msn.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>My First Post on Jekyll</title>
+   <link href="http://127.0.0.1:4000/2016-01-03-my-title-is-called-this.md/"/>
+   <updated>2016-08-31T09:26:34-04:00</updated>
+   <id>http://127.0.0.1:4000/my-title-is-called-this</id>
+   <content type="html">&lt;p&gt;First Blog Post! :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
